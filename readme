@@ -1,0 +1,15 @@
+# Template para o desenvolvimento de SaaS com .NET MVC
+
+Features:
+[X] - Projeto .NET MVC
+[ ] - Estilos com Bootstrap e Bootstrap Icons
+[ ] - Scripts frontend com JQuery
+[ ] - Layout Global
+[ ] - Mapeamento de entidades com Entity Framework Core
+[ ] - Autenticação com Asp.Net Identity
+[ ] - Banco de dados PostgreSQL
+[ ] - Gerenciamento de Assinaturas com Stripe
+[ ] - Portal de administração
+[ ] - Ambiente virtual Docker
+[ ] - Exemplo de pipeline CI/CD com github actions
+
