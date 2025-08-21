@@ -2,8 +2,8 @@
 
 Features:
 [X] - Projeto .NET MVC
-[ ] - Estilos com Bootstrap e Bootstrap Icons
-[ ] - Scripts frontend com JQuery
+[X] - Estilos com Bootstrap e Bootstrap Icons
+[X] - Scripts frontend com JQuery
 [ ] - Layout Global
 [ ] - Mapeamento de entidades com Entity Framework Core
 [ ] - Autenticação com Asp.Net Identity
