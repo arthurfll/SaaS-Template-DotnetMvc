@@ -15,6 +15,8 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        TempData["AlertMessage"] = "Mensagem de teste";
+        TempData["AlertType"] = NotificationAlertType.Danger;
         return View();
     }
 
@@ -29,3 +31,6 @@ public class HomeController : Controller
         return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
+
+
+
